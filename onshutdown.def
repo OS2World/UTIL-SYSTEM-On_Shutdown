@@ -1,0 +1,5 @@
+NAME            WINDOWAPI
+
+DESCRIPTION     'On Shutdown'
+
+STACKSIZE       32768
